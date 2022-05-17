@@ -1,0 +1,255 @@
+//Borders and Background Colors 
+
+.reservations {
+	border: none;
+	border-radius: 10px;
+}
+
+.dashboard {
+	border: 1px solid #084d69;
+	border-radius: 6px 6px 0 0;
+	box-shadow: none;
+}
+
+.dashboardHeader {
+	background-color: #084d69;
+	font-size: 1.25em;
+	border-radius: 5px 5px 0 0;
+}
+
+.dashboard-header {
+    letter-spacing: 1px;
+    padding: 5px 20px;
+    color: #fff;
+    background-color: #084d69;
+
+.dashboardContents {
+	border: none;
+	border-radius: 10px; 
+	box-shadow: none;
+}
+
+.resourceName {
+	background-color: none; 
+	color: #084d69;
+}
+
+
+.badge {
+	background-color: #a5b249;
+	padding: 7px 9px;
+	font-size: .9em;
+}
+
+.resdate {
+	background-color: #084d69;
+	font-size: 1.25em;
+	text-align: center; 
+	margin-top: 10px;	
+	border: 1px solid #084d69;
+}
+
+td.resdate {
+	border: 1px solid #084d69;
+	background-color: #1d7698;
+}
+
+table.reservations tr.today td.resdate, table.reservations td.today {
+	background-color: #1d7698;
+}
+
+table.reservations tr.today td.resdate, table.reservations td.today {
+	background-color: #1d7698;
+}
+
+//Button Colors and Borders 
+
+.availabilityDashboard .availabilityItem .btn {
+	background-color: #1b8c7c;
+}
+
+
+.btn {
+	background-color: #1d7698;
+}
+
+.btn-success, .btn.btn-xs.col-xs-12 {
+	background-color: #1d7698;
+	border-color: #1d7698;
+}
+
+
+.resourcename {
+	position: initial;
+	margin-top: 5px;
+	background-color: #ededed;
+}
+
+.resourceNameSelector {
+	background-color: transparent;
+	color: black;
+}
+
+.dashboard {
+	border: 1px solid #084d69;
+	border-radius: 5px 5px 0 0;
+	box-shadow: none;
+}
+
+a.change-date.btn-link.btn-success {
+	color: black;
+	background-color: white;
+}
+
+.reserveButton {
+	width: 300px;
+	background-color: #1d7698;
+	font-size: 1.25em;
+	padding: 10px 0;
+	border-radius: 5px;
+}
+
+.btn-success {
+	background-color: #1d7698;
+	border-color: #1d7698;
+	
+}
+
+.btn-success:hover, .btn-success:visited {
+	background-color: #a5b249;
+	border: none;
+	
+}
+
+
+// Button Text Color
+
+#searchForm > div:nth-child(9) {
+	color: white;
+}
+
+#promptForParticipants, #promptForGroupParticipants, #promptForInvitees, #promptForGroupInvitees, #form-reservation > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > button.btn.btn-default > span.hidden-xs, #form-reservation > div:nth-child(9) > div > div > button.btn.btn-default > span.hidden-xs, #forgot-password > a, #change-language > button, 	color: white;
+}
+
+
+
+.participationButtons {
+	color: white;
+}
+
+//Table Borders and backgrounds
+
+table.reservations td {
+	border: none;
+}
+
+table.reservations.reservations-tall {
+	width: 100%;
+	margin-right: 10px;
+}
+
+#reservations-left  {
+	position: initial; 
+	margin: 15px 15px 30px 15px;
+	padding: 0;
+	border: 1px solid #084d69;
+}	
+	
+	
+#show_all_resources {
+	color: #084d69;
+	background-color: transparent;
+	border: 1px solid #084d69;
+	padding: 5px;
+}
+
+#resourceType {
+	margin-bottom: 10px;
+}
+
+
+
+tr, .reservable.clickres.slot, .slots {
+	border: 1px solid #084d69;
+}
+
+
+td, td.resourcename, tr {
+	position: initial;
+}
+
+//Calendar Headers and Cell Background
+
+td.reservable.clickres.slot:hover {
+	background-color: #93c8ce;
+}
+
+div.fc-day-header {
+    background-color: #084d69;
+    color: white;
+}
+
+.fc-day-header {
+  background-color: #084d69;
+  color: white;
+}
+
+.fc-unthemed td.fc-today {
+	background-color: #ededed;
+}
+
+//Calendar Width
+
+div#reservations.col-md-10.col-sm-12 {
+	width: 100%;
+}
+
+
+//Legend Background Colors
+div.legend {
+	margin-top: 10px;
+}
+
+.reservable {
+	background-color: white;
+}
+
+.unreservable, .buffer {
+    background-color: #ca1013;
+    color: #fff;
+}
+
+div.legend.reserved {
+	background-color: #db6726;
+}
+
+div.legend.reserved.mine {
+	background-color: #007d88;
+}
+
+div.legend.reserved.participating {
+	background-color: #4ca5ab;
+}
+
+div.legend.reserved.pending {
+	background-color: #93c8ce;
+	color: white;
+}
+
+//Footer
+
+.footer {
+	width: 100%; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
