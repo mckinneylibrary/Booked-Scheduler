@@ -205,6 +205,10 @@ div#reservations.col-md-10.col-sm-12 {
 }
 
 
+#page-monitor-display .monitor-display-header {
+	display: none;
+}
+
 //Legend Background Colors
 div.legend {
 	margin-top: 10px;
@@ -234,6 +238,11 @@ div.legend.reserved.participating {
 div.legend.reserved.pending {
 	background-color: #93c8ce;
 	color: white;
+}
+
+//Removing Time from Monitor display page
+#page-monitor-display .monitor-display-header {
+	display: none;
 }
 
 //Footer
